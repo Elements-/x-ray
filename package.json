@@ -30,7 +30,7 @@
     "web"
   ],
   "dependencies": {
-    "batch": "~0.5.2",
+    "batch": "https://github.com/Elements-/batch.git",
     "chalk": "~1.1.1",
     "cheerio": "~0.20.0",
     "debug": "~2.2.0",
